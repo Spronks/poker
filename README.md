@@ -1,2 +1,2 @@
 # poker equity calculator
- this change happened
+ My first ever program, written in Python, after I've finished reading Python Crash Course. It needs a lot of refactoring...
